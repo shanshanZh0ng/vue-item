@@ -1,0 +1,71 @@
+.baseBlue {
+  color:#409eff
+}
+.margBot15 {
+  margin-bottom: 15px;
+}
+.margR20 {
+  margin-right: 20px;
+}
+.pad_t10 {
+  padding-top: 10px;
+}
+.el-checkbox {
+  margin: 0 10px;
+}
+.title {
+  text-align:right;
+  float:right;
+  position:relative;
+  z-index:9;
+}
+.inlineBlock {
+  display: inline-block;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.center {
+  text-align: center;
+}
+.icon-q {
+  color:#999;
+  margin-left:10px;
+  font-size: 16px;
+}
+.tip-text {
+  color:#999;
+  font-size: 12px;
+}
+.pointer {
+  cursor: pointer;
+}
+.mainBtnD {
+  text-align:right;
+  position: fixed;
+  bottom:0;right:0;
+  width:100%;
+  height:80px;
+  background:#fff;
+  z-index:2;
+  border-top:2px solid #ccc;
+  overflow:hidden;
+  padding:20px;
+}
+.iconSize {
+  float:right;
+  color:#999;
+  margin-left:10px;
+  font-size:20px;
+}
+.slider {
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle;
+  height: 50px;
+  margin: 0 30px;
+  margin-bottom: 20px;
+}
